@@ -32,7 +32,8 @@ eda-portfolio/
 │
 ├── notebooks/
 │ ├── ecommerce_furniture_data (EDA1.ipynb)
-│
+| |__ Zomato_sales_data
+│ 
 ├── requirements.txt # Python libraries needed
 ├── .gitignore
 └── README.md
@@ -45,6 +46,7 @@ eda-portfolio/
 | Dataset | Source | Description |
 |---------|--------|-------------|
 | **Furniture Sales** | Internship Project (Confidential Dataset) | Transactional sales data including product categories, revenue trends, and customer segments |
+| **Zomato Sales**    | Open Source (GitHub)                      | Coutry,cusines,delivery type, Cities, Countries                                              |
 
 *(More datasets will be added in the future)*
 
