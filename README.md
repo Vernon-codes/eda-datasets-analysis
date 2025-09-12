@@ -46,7 +46,8 @@ eda-portfolio/
 | Dataset | Source | Description |
 |---------|--------|-------------|
 | **Furniture Sales** | Internship Project (Confidential Dataset) | Transactional sales data including product categories, revenue trends, and customer segments |
-| **Zomato Sales**    | Open Source (GitHub)                      | Coutry,cusines,delivery type, Cities, Countries                                              |
+| **Zomato Sales**    | Open Source (GitHub)                      | Coutry,cusines,delivery type, Cities, Countries etc...                                       |
+| **Black Friday**    | kaggle Datasets                           | Products,Purchase,Gender,City etc..                                                          |
 
 *(More datasets will be added in the future)*
 
