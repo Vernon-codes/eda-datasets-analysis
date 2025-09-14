@@ -43,13 +43,13 @@ eda-portfolio/
 
 ## 🔎 Datasets Included
 
-| Dataset | Source | Description |
-|---------|--------|-------------|
-| **Furniture Sales** | Internship Project (Confidential Dataset) | Transactional sales data including product categories, revenue trends, and customer segments |
-| **Zomato Sales**    | Open Source (GitHub)                      | Coutry,cusines,delivery type, Cities, Countries etc...                                       |
-| **Black Friday**    | kaggle Datasets                           | Products, Purchase, Gender, City etc..                                                       |
-| **Laptop Dataset**  |  kaggle Datasets                          | GPU, Company, Brand, Type, etc ...                                                           |
-| **Flight Dataset**  | Open Source (GitHub)                      | Feature Engineering- Time duration , stops, etc...                                           |
+| **Index** | **Dataset**     | **Source**                                | **Description**                                                                              |
+| --------- | --------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 1         | Furniture Sales | Internship Project (Confidential Dataset) | Transactional sales data including product categories, revenue trends, and customer segments |
+| 2         | Zomato Sales    | Open Source (GitHub)                      | Country, cuisines, delivery type, Cities, Countries etc...                                   |
+| 3         | Black Friday    | Kaggle Datasets                           | Products, Purchase, Gender, City etc..                                                       |
+| 4         | Laptop Dataset  | Kaggle Datasets                           | GPU, Company, Brand, Type, etc ...                                                           |
+| 5         | Flight Dataset  | Open Source (GitHub)                      | Feature Engineering - Time duration, stops, etc...                                           |
 
 *(More datasets will be added in the future)*
 
